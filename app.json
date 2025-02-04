@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Aora",
-    "slug": "Aora",
+    "name": "aora-mobile-app",
+    "slug": "aora",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "Aora",
+    "scheme": "aora",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
